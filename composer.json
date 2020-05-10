@@ -1,0 +1,21 @@
+{
+    "name": "rdisme/sign",
+    "description": "sign签名",
+    "authors": [
+        {
+            "name": "rdisme",
+            "email": "rendao.sun@foxmail.com"
+        }
+    ],
+    "keywords": [
+        "sign"
+    ],
+    "autoload": {
+        "psr-4": {
+            "Rdisme\\Signs\\": "src"
+        }
+    },
+    "require": {
+    },
+    "license": "MIT"
+}
